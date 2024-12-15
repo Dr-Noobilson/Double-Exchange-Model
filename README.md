@@ -8,9 +8,9 @@ This repository contains the implementation of a Monte Carlo simulation for the 
 
 ## Files in the Repository
 
-### 1. **mcmc_de.py**
+### 1. **mcmc_de.ipynb**
    - Implements the Metropolis algorithm for simulating the double exchange model.
-   - Handles temperature sweeps and state updates.
+   - Handles temperature sweeps, thermalization, state updates and plotting of results.
 
 ### 2. **utils.py**
    - Contains utility functions for key computations:
